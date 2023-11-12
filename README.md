@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Roey Amitay
+- 👀 I'm intersted in cryptography, software and hardware security.
+- 🌱 I’m a third-year Computer Engineering student in Bar Ilan university
